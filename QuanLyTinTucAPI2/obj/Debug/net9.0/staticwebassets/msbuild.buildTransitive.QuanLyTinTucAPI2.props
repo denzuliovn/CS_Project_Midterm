@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QuanLyTinTucAPI2.props" />
+</Project>
